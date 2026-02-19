@@ -1,2 +1,3 @@
-Hello Git
-Learning Git basics
+>>>>>Hello Git>>>>
+////Learning Git basics/////
+#Edited from github
